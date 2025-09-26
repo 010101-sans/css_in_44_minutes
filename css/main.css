@@ -94,12 +94,12 @@ a {
 }
 
 .job {
-    color: #ffe479;
+    color: #fff;
     font-size: 0.75rem;
 }
 
 .hr {
-    background-color: #ff470f;
+    background-color: #fff;
     border: none;
     content: "";
     height: 1px;
